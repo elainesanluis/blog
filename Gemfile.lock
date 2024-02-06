@@ -114,9 +114,12 @@ GEM
     irb (1.11.1)
       rdoc
       reline (>= 0.4.2)
+<<<<<<< HEAD
     jbuilder (2.11.5)
       actionview (>= 5.0.0)
       activesupport (>= 5.0.0)
+=======
+>>>>>>> d7c3bc5 (updated blog repo without jbuilder)
     loofah (2.22.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.12.0)
@@ -128,10 +131,17 @@ GEM
     marcel (1.0.2)
     matrix (0.4.2)
     mini_mime (1.1.5)
+<<<<<<< HEAD
     minitest (5.21.2)
     msgpack (1.7.2)
     mutex_m (0.2.0)
     net-imap (0.4.9.1)
+=======
+    minitest (5.22.0)
+    msgpack (1.7.2)
+    mutex_m (0.2.0)
+    net-imap (0.4.10)
+>>>>>>> d7c3bc5 (updated blog repo without jbuilder)
       date
       net-protocol
     net-pop (0.1.2)
@@ -141,6 +151,7 @@ GEM
     net-smtp (0.4.0.1)
       net-protocol
     nio4r (2.7.0)
+<<<<<<< HEAD
     nokogiri (1.16.0-aarch64-linux)
       racc (~> 1.4)
     nokogiri (1.16.0-arm-linux)
@@ -152,6 +163,9 @@ GEM
     nokogiri (1.16.0-x86_64-darwin)
       racc (~> 1.4)
     nokogiri (1.16.0-x86_64-linux)
+=======
+    nokogiri (1.16.2-x86_64-linux)
+>>>>>>> d7c3bc5 (updated blog repo without jbuilder)
       racc (~> 1.4)
     pg (1.5.4)
     psych (5.1.2)
@@ -241,6 +255,7 @@ GEM
     websocket-extensions (0.1.5)
     xpath (3.2.0)
       nokogiri (~> 1.8)
+<<<<<<< HEAD
     zeitwerk (2.6.12)
 
 PLATFORMS
@@ -249,6 +264,11 @@ PLATFORMS
   arm64-darwin
   x86-linux
   x86_64-darwin
+=======
+    zeitwerk (2.6.13)
+
+PLATFORMS
+>>>>>>> d7c3bc5 (updated blog repo without jbuilder)
   x86_64-linux
 
 DEPENDENCIES
@@ -256,7 +276,10 @@ DEPENDENCIES
   capybara
   debug
   importmap-rails
+<<<<<<< HEAD
   jbuilder
+=======
+>>>>>>> d7c3bc5 (updated blog repo without jbuilder)
   pg (~> 1.1)
   puma (>= 5.0)
   rails (~> 7.1.3)
